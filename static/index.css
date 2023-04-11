@@ -13,3 +13,16 @@ h1 {
     background: transparent;
     border-bottom: 5px solid black;
 }
+
+p {
+    font-family: 'Montserrat';
+    font-size: 50px;
+    color: cadetblue;
+    text-align: centre;    
+}
+
+table {
+    font-family: 'Montserrat';
+    font-size: 20px;
+    text-align: centre;    
+}
