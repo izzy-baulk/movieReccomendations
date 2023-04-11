@@ -1,0 +1,20 @@
+<!doctype html>
+<head>
+	<title>Films Like</title>
+	<link href="static/index.css" rel="stylesheet"> 
+</head>
+<body>
+	<h1>Films like</h1>
+	<p>
+		<cd>{{ film }}</cd>
+	</p>
+	<table>
+		<tbody>
+			{% for item in films %}
+			<tr>
+				<td>{{item}}</td>
+			</tr>
+			{% endfor %}
+		</tbody>
+	</table>
+</body>

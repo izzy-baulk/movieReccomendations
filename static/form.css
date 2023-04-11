@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+.txt{
+   font-family: 'Montserrat';
+   font-size: 100px;
+   text-align: centre;
+}
+
+#entry{
+    color: cadetblue;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 5px solid black;
+}
